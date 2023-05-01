@@ -10,7 +10,7 @@ Docker development implementation for Laravel 8.\* with:
 
 ## Installation
 
-- Clone this repository `git clone git@github.com:sadhakbj/Laravel-8-vue3-typescript.git`
+- Clone this repository `git clone https://github.com/RahulsutarDevOps/Dockerized-Laravel-App-typescript.git`
 - Make sure you have docker installed on your local machine, you do not need to have php / mysql / redis / node installed on your machine
 - Copy `.env` file: `cp .env.example .env`
 - Set the environment variables in `.env` file
