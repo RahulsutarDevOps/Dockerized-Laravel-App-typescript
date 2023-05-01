@@ -20,6 +20,7 @@ services:
       - postgres
     networks:
       - webapp
+      
   php:
     build:
       context: .
