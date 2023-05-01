@@ -6,6 +6,5 @@ RUN set -ex \
     	&& apk --no-cache add postgresql-dev nodejs yarn npm\
     	&& docker-php-ext-install pdo pdo_pgsql
         
-
 WORKDIR /var/www/html
 
