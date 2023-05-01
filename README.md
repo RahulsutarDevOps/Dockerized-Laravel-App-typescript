@@ -1,4 +1,4 @@
-# Dockerized Laravel 8 & Vue 3 App with TypeScript
+# Dockerized Laravel-8 & App with TypeScript
 
 Docker development implementation for Laravel 8.\* with:
 
