@@ -1,5 +1,5 @@
 <template>
-    <h1>From Docker</h1>
+    <h1>From Dockerized-Laravel-App-typescript</h1>
   Hello {{ name }} welcome to my app.
   <hr />
   <counter></counter>
@@ -13,7 +13,7 @@ export default defineComponent({
     Counter,
   },
   setup() {
-    const name = ref<string>("Bijaya");
+    const name = ref<string>("Aecor QA team");
     return {
       name,
     };
